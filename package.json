@@ -1,0 +1,27 @@
+{
+  "name": "sarak-sarak-be",
+  "version": "0.0.1",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhshin29/sarak-sarak-be.git"
+  },
+  "author": "jhshin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jhshin29/sarak-sarak-be/issues"
+  },
+  "homepage": "https://github.com/jhshin29/sarak-sarak-be#readme",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
